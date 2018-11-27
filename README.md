@@ -1,2 +1,2 @@
 # cloudpractice
-This is the pracrtice folder for all students.
+This is the practice folder for all students.
